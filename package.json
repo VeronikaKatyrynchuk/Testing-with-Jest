@@ -1,0 +1,23 @@
+{
+  "name": "Testing-with-Jest",
+  "version": "1.0.0",
+  "description": "Learning how to write unit tests with Jest :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeronikaKatyrynchuk/Testing-with-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeronikaKatyrynchuk/Testing-with-Jest/issues"
+  },
+  "homepage": "https://github.com/VeronikaKatyrynchuk/Testing-with-Jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
